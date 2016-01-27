@@ -1,0 +1,16 @@
+input {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    width: 200px;
+    height: 50px;
+}
+
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-image: url("images/bg.png");
+    text-align: center;
+    width: 100%;
+}
+
+#login {
+    padding: 100px;
+}
